@@ -22,8 +22,8 @@ About Me :
 ---
 
 <div>
-  <img align="left"  width="48%" src="https://github-readme-stats.vercel.app/api?username=Vineeth-Shetty3&show_icons=true&theme=tokyonight"/>
-  <img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-Shetty3&hide_progress=true&theme=synthwave&langs_count=8"/>
+  <img align="left"  width="47%" src="https://github-readme-stats.vercel.app/api?username=Vineeth-Shetty3&show_icons=true&theme=tokyonight"/>
+  <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vineeth-Shetty3&hide_progress=true&theme=synthwave&langs_count=8"/>
 </div>
 
 
